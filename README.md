@@ -80,7 +80,7 @@ The following preprocessing steps were performed:
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository:** [Insert your GitHub repository URL here]
+**GitHub Repository:** https://github.com/2026ct05089/2026CT05089_ML_Assignment2
 
 The repository contains the Jupyter Notebook, saved trained models,
 preprocessing object, test dataset, evaluation results, visualizations,
@@ -131,6 +131,10 @@ Five machine learning classification algorithms were implemented:
 **MCC Comparison**
 
 ![MCC Comparison](results/mcc.png)
+
+**Performance Comparison of Classification Models**
+
+![Performance Comparison](results/performance_comparison.png)
 
 ### Confusion Matrix Comparison
 
